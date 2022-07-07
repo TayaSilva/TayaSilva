@@ -8,7 +8,7 @@
   <img align="center" alt="Tay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/989935682418016297/989935683193938032/994627527953883136">
+  <img align="right" alt="Tay-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/989935683193938032/994627527756746873/ezgif.com-gif-maker.gif?width=408&height=408">
 </div>
   
   <br>
